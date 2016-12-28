@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Intercambio de Regalos</string>
+    <string name="registro.name">Registro</string>
+
+    <string name="main.tv.irpaginaweb">Ir Pagina Web</string>
+    <string name="main.btn.ingresar">Ingresar</string>
+    <string name="main.btn.siguiente">Siguiente</string>
+
+    <string name="main.et.user">Ingrese su usuario</string>
+    <string name="main.et.pass">Ingrese su contraseña</string>
+
+    <string name="main.et.part">Nro participantes</string>
+
+    <string name="main.et.titulo">INTERCAMBIO DE REGALOS</string>
+
+    <string name="registro.et.nombres">Ingrese sus nombres</string>
+    <string name="registro.et.tit">Ingrese nombre de participantes</string>
+    <string name="registro.et.apellidos">Ingrese sus apellidos</string>
+    <string name="registro.et.sig">SIGUIENTE</string>
+
+    <string name="ingreso.tit">¿A QUIEN REGALARAS?</string>
+    <string name="ingreso.nom">Usuario</string>
+    <string name="ingreso.cod">Contraseña</string>
+    <string name="ingreso.ver">VER</string>
+
+    <string name="main.onclick.registrar">registrar</string>
+    <string name="main.onclick.ingresar">ingresar</string>
+    <string name="main.onclick.irpaginaweb">irpaginaweb</string>
+</resources>
